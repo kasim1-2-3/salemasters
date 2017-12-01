@@ -1,0 +1,12 @@
+SMAP
+buy_005fproduct_jsp.java
+JSP
+*S JSP
+*F
++ 0 buy_product.jsp
+buy_product.jsp
+*L
+1,58:44
+59:102,3
+60,138:105
+*E
